@@ -7,3 +7,5 @@
 katsuda
 
 サーバー編集
+
+push
